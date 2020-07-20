@@ -14898,4 +14898,20 @@ export const data = {
     }
   }
   ],
+	{
+    id: uuidv4(),
+    name: "Shubham Bhardwaj",
+    img: "https://avatars1.githubusercontent.com/u/53373270?v=4",
+    links: {
+      website: "https://sbshubh01.wixsite.com/website",
+      linkedin: "https://www.linkedin.com/in/shubham-bhardwaj-835002128/",
+      github: "https://github.com/sbshubh01"
+    },
+    jobTitle: "Final Year Undergrad",
+    location: {
+      city: "Meerut",
+      state: "Uttar Pradesh",
+      country: "India"
+    }
+  }
 }
